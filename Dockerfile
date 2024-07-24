@@ -24,4 +24,3 @@ EXPOSE 8080
 
 # Define el comando de inicio de la aplicación
 CMD ["java", "-jar", "nombre-0.0.1-SNAPSHOT.jar"]
-s
